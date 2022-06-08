@@ -1,0 +1,6 @@
+framework module Pods_MusicSearchInITunes_MusicSearchInITunesUITests {
+  umbrella header "Pods-MusicSearchInITunes-MusicSearchInITunesUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
